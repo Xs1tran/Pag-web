@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #fff;
+    background-color: #56A6D5;
     color: #333;
     margin: 0;
     padding: 0;
@@ -45,7 +45,7 @@ h1 {
     padding: 10px;
     border: 1px solid #ccc;
     border-radius: 5px;
-    background-color: #ffb100;
+    background-color: #FF5026;
     color: #fff;
     font-weight: bold;
     text-align: center;
@@ -74,9 +74,9 @@ h1 {
 }
 
 .btn-registro {
-    background-color: #ff6a00;
+    background-color: #FF5026;
 }
 
 .btn-back {
-    background-color: #ff6a00;
+    background-color: #FF5026;
 }
